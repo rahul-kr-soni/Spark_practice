@@ -1,0 +1,2 @@
+[debug] Created transactional ClassFileManager with tempDir = G:\scalalearning\SaveASTable_spark_writing_as_table\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: G:\scalalearning\SaveASTable_spark_writing_as_table\project\target\scala-2.12\sbt-1.0\classes.bak
