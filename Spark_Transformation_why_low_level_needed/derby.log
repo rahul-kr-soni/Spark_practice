@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 07 15:51:51 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0187-f5bb-62f2-0000062cee00 
+on database directory G:\scalalearning\Spark_Transformation\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3b192d32 
+Loaded from file:/C:/Users/Ultimatrix/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.15.1+2-LTS-10
+user.dir=G:\scalalearning\Spark_Transformation
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
